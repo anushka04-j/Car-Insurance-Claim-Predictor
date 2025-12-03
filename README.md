@@ -166,7 +166,10 @@ Feel free to extend this project with:
 - API endpoints
 - Advanced visualizations
 
-## 📄 License
-
-This project is for educational and demonstration purposes.
+## Author
+Anushka Jaiswal
+B.Tech final year student
+https://github.com/anushka04-j
+https://www.linkedin.com/in/anushka-jaiswal-953188262/
+https://leetcode.com/u/anushka_jais/
 
